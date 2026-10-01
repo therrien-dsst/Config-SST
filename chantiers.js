@@ -33,14 +33,15 @@ const INSPECTEURS_THERRIEN = [
   "Jimmy Dumont",
   "Julie Landry",
   "Manon Perreault",
+  "Marc Fournier",
   "Marc Ricard",
   "Marc Tardif",
   "Marc-Alexandre Neault",
   "Martin Dargis",
   "Normand Jr. Lamirande",
+  "Pamela Loranger",
   "Sedena Ongbwa",
   "William Gélinas Sylvestre",
-  "Yves Mailhot",
   "Autre"
 ];
 
